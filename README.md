@@ -49,104 +49,85 @@ We employed a mixed-method approach, combining quantitative analysis of sales an
 1. Overall Performance Metrics
 This section provides an overview of Zomato's key performance indicators
  
-Visualization: The dashboard displays the following key metrics:
 •	Amount: 987M
 •	Sales: 2M
 •	Rating: 148K
 •	Orders: 150K
+
 2. Food Category Performance
+
 This analysis breaks down Zomato's active users and ratings across different food categories, highlighting customer preferences and potential areas for menu expansion. 
  
-Visualization: The dashboard shows three food categories with their respective sales and ratings:
 1.	Non-Veg: 106M sales, 10K rating
 2.	Veg: 731K sales, 12K rating
 3.	Other: 932 sales, 927 rating
-	This data illustrates the dominance of non-vegetarian options in terms of sales, while also showing strong ratings for vegetarian items.
-3. Year-over-Year Sales Trends
-This section examines Zomato's sales performance over the past few years, identifying growth patterns and potential external impacts on the business. 
  
-Visualization: A line graph titled "Sale by Year" is provided, showing:
+"Sale by Year":
 •	2017: Approximately 0.1bn
 •	2018: Peak at about 0.41bn
 •	2019: Slight decrease to around 0.38bn
 •	2020: Sharp decline to about 0.14bn
-	This graph clearly illustrates the company's growth, peak, and subsequent decline, likely influenced by external factors such as the COVID-19 pandemic.
+
 4.	User Demographics and Behaviour
 This analysis explores Zomato's user base, including age distribution, gender split, and customer acquisition and retention metrics. 
  
-Visualization: The dashboard provides several relevant data points:
 •	Active Users: 78K
 •	A bar graph showing user distribution by age, with a peak in the 20-25 year range
- 
 •	Gain Customers: Male (5.9K) > Female (5.1K) 
-
- 
 •	Lost Customers: Male (18.8K) > Female (14.0K) 
-	This data highlights Zomato's appeal to young adults and reveals challenges in customer retention.
-5.	Geographic Performance
-This section analyses Zomato's performance across different cities, considering factors such as sales, order counts, user base, and ratings. 
- 
-Visualization: The dashboard provides a table with city-wise performance metrics, including:
-•	City names (e.g., GTB Nagar,Delhi, Kothrud,Chennai, Faridabad)
-•	Sales figures
-•	Order counts
-•	User numbers
-•	Gain Users
-Additionally, there are bar charts showing:
-•	Sales by City
-•	Rating by City
-•	Active users by City
 
- 
- 
- 
-There's a disparity between cities with highest sales and those with highest ratings, suggesting opportunities for growth in well-rated areas with lower sales volumes.
+SWOT Analysis
 
-
-10.	Entity-Relationship Diagram (ERD)
-  
-•	"Zomato Data Model ERD"
-•	Description: The provided image illustrates the relationships between key entities in Zomato's data structure. The model consists of six main entities: food, menu, Orders_type, orders, users, and restaurant.
-
-11.	SWOT Analysis
 Strengths
+
 •	Strong presence in key urban markets
 •	High average order value
 •	Appeal to young adult demographic
+
 Weaknesses
+
 •	High customer churn rate
 •	Overdependence on non-vegetarian food category
 •	Declining sales trend (2019-2020)
+
 Opportunities
+
 •	Expansion in high-rated, lower-sales cities
 •	Development of vegetarian and 'Other' food categories
 •	Increased order frequency strategies
+
 Threats
+
 •	External disruptions (e.g., pandemic effects)
 •	Intense competition in food delivery sector
+
 12.	Recommendations
-1.	Customer Retention Strategy 
-o	Implement a tiered loyalty program
-2.	Menu Diversification 
-o	Promote high-quality vegetarian options
-o	Explore and expand the 'Other' category
-o	Collaborate with restaurants on exclusive menu items
-3.	Geographic Expansion 
-o	Focus resources on high-rated cities with growth potential
-o	Develop city-specific marketing and partnership strategies
-o	Replicate successful practices from top-performing cities
-4.	User Engagement Enhancement 
-o	Create targeted campaigns for the 20-30 age group
-o	Implement a referral program leveraging the young user base
-5.	Order Frequency Improvement 
-o	Introduce time-based promotions and subscription models
-o	Optimize push notifications and email marketing
-o	Implement AI-driven personalized recommendations
-6.	Pandemic Recovery Plan 
-o	Develop strategies for contactless delivery and safety measures
-o	Explore new revenue streams (e.g., grocery delivery, meal kits)
+
+      Customer Retention Strategy 
+   o	Implement a tiered loyalty program
+      Menu Diversification 
+   o	Promote high-quality vegetarian options
+   o	Explore and expand the 'Other' category
+   o	Collaborate with restaurants on exclusive menu items
+      Geographic Expansion 
+   o	Focus resources on high-rated cities with growth potential
+   o	Develop city-specific marketing and partnership strategies
+   o	Replicate successful practices from top-performing cities
+      User Engagement Enhancement 
+   o	Create targeted campaigns for the 20-30 age group
+   o	Implement a referral program leveraging the young user base
+      Order Frequency Improvement 
+   o	Introduce time-based promotions and subscription models
+   o	Optimize push notifications and email marketing
+   o	Implement AI-driven personalized recommendations
+      Pandemic Recovery Plan 
+   o	Develop strategies for contactless delivery and safety measures
+   o	Explore new revenue streams (e.g., grocery delivery, meal kits)
+
 13.	Conclusion
+
 Zomato demonstrates strong performance in key urban markets and maintains a loyal active user base. However, the company faces significant challenges, particularly in customer retention and adapting to market disruptions. By implementing the recommended strategies, Zomato can address these challenges, diversify its offerings, and position itself for sustainable growth in the competitive food delivery market.
+
 The success of these initiatives will depend on Zomato's ability to execute effectively, continuously analyse performance data, and rapidly adapt to changing market conditions. Regular monitoring and analysis of key metrics will be crucial for long-term success and maintaining a competitive edge in the dynamic food tech industry.
 
 Created and presented by
